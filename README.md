@@ -1,6 +1,6 @@
 # MoodSync Chatbot
 
-![Chatbot Banner](assets/banner.png)  
+![Chatbot Banner]([assets/banner.png](https://github.com/huiguys/MoodSync-Chatbot/blob/main/assets/banner.jpg?raw=true))  
 *A smart, mood-responsive chatbot built with Flask, TensorFlow, and GPT-Neo.*
 
 ## Overview
