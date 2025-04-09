@@ -1,6 +1,6 @@
 # MoodSync Chatbot
 
-![Chatbot Banner](https://via.placeholder.com/800x200.png?text=MoodSync+Chatbot)  
+![Chatbot Banner](assets/banner.png)  
 *A smart, mood-responsive chatbot built with Flask, TensorFlow, and GPT-Neo.*
 
 ## Overview
