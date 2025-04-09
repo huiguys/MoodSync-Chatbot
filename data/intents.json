@@ -1,0 +1,36 @@
+{
+    "intents": [
+        {
+            "tag": "greeting",
+            "patterns": ["Hi", "Hey", "How are you", "Is anyone there?", "Hello", "Good day"],
+            "responses": ["Hello!", "Good to see you again!", "Hi there, how can I help?"],
+            "context_set": ""
+        },
+        {
+            "tag": "goodbye",
+            "patterns": ["Bye", "See you later", "Goodbye", "Nice chatting", "Till next time"],
+            "responses": ["See you later, thanks for visiting!", "Have a nice day!", "Bye! Come back again soon."]
+        },
+        {
+            "tag": "thanks",
+            "patterns": ["Thanks", "Thank you", "That's helpful", "Awesome, thanks", "Thanks for helping me"],
+            "responses": ["Happy to help!", "Any time!", "My pleasure"]
+        },
+        {
+            "tag": "about",
+            "patterns": ["Who are you?", "What are you?", "Tell me about yourself"],
+            "responses": ["I am a simple rule-based chatbot.", "I'm designed to answer basic questions based on predefined intents."]
+        },
+        {
+            "tag": "options",
+            "patterns": ["What can you do?", "How can you help?", "What are your features?"],
+            "responses": ["I can greet you, say goodbye, tell you about myself, or offer thanks!"],
+            "context_set": ""
+        },
+        {
+            "tag": "invalid",
+            "patterns": [],
+            "responses": ["Sorry, I didn't understand that.", "Please try rephrasing.", "I'm not sure how to respond to that."]
+        }
+    ]
+}
