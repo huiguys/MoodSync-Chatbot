@@ -28,7 +28,6 @@ MoodSync-Chatbot/
 ├── requirements.txt
 └── README.md
 
-
 ## Prerequisites
 - Python 3.8+
 - Git
